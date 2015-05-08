@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wetter_APP</string>
+    <string name="action_settings">Settings</string>
+    <string name="location">Standort:</string>
+    <string name="country">Land:</string>
+    <string name="temperature">Temperatur:</string>
+    <string name="humidity">Feuchtigkeit:</string>
+    <string name="pressure">Luftdruck:</string>
+    <string name="weather">Wetter</string>
+</resources>
+
