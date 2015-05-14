@@ -1,0 +1,10 @@
+* Fragen konkreter formulieren
+* Dokumente in Github ersetzen, nicht neue hinzufügen
+* Positive/Negative Aspekte erstellen -> Designpotentiale
+* Zu jeder Anforderung essential use + concrete use case -> danach können sich neue funktionale Anforderungen ergeben
+* Welches Use Case gehört zu welcher Anforderung?
+* Priorisierung fehlt
+* nicht 'Standort erfassen' sondern 'das System muss dem Benutzer den Standort anzeigen'
+* Glossar anlegen 'Route'
+* abstrakt verfassen -> lösungs- und technologieunabhängig
+* Evtl. Auditives Feedback in der App
