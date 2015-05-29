@@ -1,3 +1,3 @@
-1.Im Xml Schema wurde in der Dokumentaion erklärt muss das raus?
-2.sind die beschrieben Anforderung zu begründung des Prototypen genügend?
-3.Muss die Prototyp Evualation in ms4 oder ms5 festgehalten werden?
+1. Xml Datei wurde in Datenstrukturen kurz erläutert.Soll das raus?da nur XML Schema erwartet wird
+2. Prototypen: anforderungszuordnung genug?
+. 3. kann eine kleine Evaluierung in ms4 als iteration vorgenommen werden? dadurch eventuelle Verbesserungen des prototyps 
