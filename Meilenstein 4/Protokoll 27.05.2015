@@ -1,0 +1,13 @@
+- Schema Dateien, die Informationen austauschen nicht für die GUI
+-alle XML-Schemata müssen vorhanden sein
+-Anforderungen: -Ausdruck falsch: Nicht 'die ReiterApp soll' sondern 'Das System soll'
+                -Anforderungen für die mobile Nutzbarkeit des Systems fehlen
+                -Ortsunabhängigkeit fehlt
+                -Erfordernis-> daraus leiten sich Anforderungen ab
+                -viele Anforderungen fehlen
+                -z.B Ervordernis: Wetterunabhängigkeit
+-Use Cases: -Essential Use Case-> abstrakter z.B. 'Start- und Zielpunkt' zu technisch
+-Einleitung zu ER-Modellierung kann weggelassen werden
+-URIs müssen überarbeitet werden
+-Tabelle bei Ressourcen überarbeiten
+-Prototyp: Begründung zu Anforderungen erwähnen
