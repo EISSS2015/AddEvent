@@ -1,9 +1,9 @@
 {
-  "name": "meinserver",
+  "name": "install",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon www"
+    "start": "npm"
   },
   "dependencies": {
     "body-parser": "~1.12.4",

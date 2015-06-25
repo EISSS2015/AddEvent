@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Profil-Einstellungen</string>
+    <string name="username">Benutzername:</string>
+    <string name="password">Passwort:</string>
+    <string name="Login">Login</string>
+    <string name="attempts">Verbliebene Versuche:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hauptmenu">Hauptmenu</string>
+    <string name="title_activity_karte">Karte</string>
+    <string name="title_activity_main_activity2">Nachrichten</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_profil">Karte</string>
+    <string name="title_activity_routenerstellen">Routen Erstellen</string>
+    <string name="title_activity_meinerouten">Mein Routen</string>
+
+    <string name="location">Standort:</string>
+    <string name="country">Land:</string>
+    <string name="temperature">Temperatur:</string>
+    <string name="humidity">Feuchtigkeit:</string>
+    <string name="pressure">Windstärke:</string>
+    <string name="clouds">Bewölkung:</string>
+    <string name="weather">Wetter</string>
+    <string name="title_activity_registrierung1">Registrierung1</string>
+    <string name="title_activity_registrierung2">Registrierung2</string>
+    <string name="title_activity_registrierung3">Registrierung3</string>
+    <string name="title_activity_registrierung4">Registrierung4</string>
+    <color name="blau">#87CEFA</color>
+    <string name="title_activity_profil_anderer_benutzer">ProfilAndererBenutzer</string>
+</resources>
