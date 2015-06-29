@@ -1,8 +1,0 @@
--es muss kein Klassendiagramm gemacht werden
--Pseudocode: Barrieren wichtig, repräsentiert ein Straßenname eine Kante? Wettereinfluss auch wichtig?
--Kommentare wie main-Schleife nicht aussagekräftig
--Gewichtung der Kanten im Pseudocode integrieren 
--welche Anwendungslogik läuft auf welchem Systemkomponenten?
--Man bekommt nur ein Routenvorschlag obwohl es 3 sein müssen laut Pseudocode. 
-  Textuell verfassen falls nicht bearbeitet wird.
--Alle HTTP-Methoden für jede Ressource aufschreiben, auch wenn nicht verwendet wird
