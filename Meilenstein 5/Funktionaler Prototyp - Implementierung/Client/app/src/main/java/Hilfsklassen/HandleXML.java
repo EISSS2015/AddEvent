@@ -9,6 +9,8 @@ import java.net.URL;
 
 /**
  * Created by sinemkaya on 06.05.15.
+ *
+ * Klasse zum Parsen der XML-Dateien
  */
 public class HandleXML {
 
@@ -39,6 +41,12 @@ public class HandleXML {
     }
     public String getClouds() { return clouds; }
 
+    /**
+     * Main
+     *
+     * Hier werden die Attribute von den benötigten Elementen gefiltert und geparst
+     * @param myParser
+     */
 
     public void parseXMLAndStoreIt(XmlPullParser myParser) {
         int event;
@@ -83,6 +91,11 @@ public class HandleXML {
         }
 
     }
+
+    /**
+     * Eine Verbindung zu der URL wird hergestellt
+     */
+
     public void fetchXML(){
         Thread thread = new Thread(new Runnable(){
             @Override
